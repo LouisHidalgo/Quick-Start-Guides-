@@ -1,12 +1,12 @@
-# Quick-Start-Guides- 
+# Quick-Start-Guides
  In this repository I have all the coding projects and assignments that I have completed or are working on.
 <div>
-  <h1> What is Quick Start Guides?</h1>
+  <h1> What is Quick-Start-Guides?</h1>
   <p>Quick Start Quides Programming Curriculum is a self-paced online program with guides and tutorials to introduce new programmers to key programming concepts and tools when using HTML,CSS, Python, and SQL languages.
   </p>
 </div>
 <div>
-  <h1> What I learned while going through the Quick Start Guides Program?</h1>
+  <h1> What I learned while going through the Quick-Start-Guides Program?</h1>
 </div>
 <div>
   <h2>Introduction to Programming</h2>
